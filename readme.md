@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋,Iam Tharinda Dilhan</h1>
+
 # 💫 About Me:
 🔭 I’m currently working on Codingsl, stannum <br>🌱 I’m currently learning OOP with Java<br>💬 Ask me about web development and fivem development<br>📫 How to reach me tharinda.codingsl@gmail.com
 
