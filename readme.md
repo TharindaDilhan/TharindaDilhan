@@ -7,7 +7,7 @@
   
 - 🔭 I’m currently working on **Codingsl, stannum & Sriverse**
 
-- 🌱 I’m currently learning **Web Components Development**
+- 🌱 I’m currently learning **Business Components Development**
 
 - 🧑‍🎓 I’m an Undergraduate at **Birmingham city university**
 
