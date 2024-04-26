@@ -11,7 +11,7 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **Birmingham city university**
 
-- 💬 sk me about **web development** and **fivem development**
+- 💬 Ask me about **web development** and **fivem development**
 
 - 📫 How to reach me **tharinda.codingsl@gmail.com**
 
