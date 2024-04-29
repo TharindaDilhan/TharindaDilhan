@@ -1,7 +1,7 @@
 <!--<p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>-->
-<h1 align="left">Hi 👋,I'm Tharinda</h1>
+<h1 align="left">Hi there, I'm Tharinda! 👋</h1>
 
-<table align="center">
+<!--<table align="center">
 <tr border="none">
 <td width="50%" align="left">
   
@@ -23,10 +23,22 @@
   
   </td>
 </tr>
-</table>
+</table>-->
 
+### 🌱About Me
+I'm currently pursuing my undergraduate degree in Software Engineering, with a keen interest in both front-end and back-end development. My primary focus is on building robust web applications and POS systems using technologies like React, Node.js, and Laravel. Additionally, I'm delving into Android application development and gaming development to broaden my skill set.
 
-<br>
+As a student, I'm constantly learning and exploring new technologies to stay updated with industry trends. I enjoy collaborating with others on projects and contributing to open-source initiatives. Feel free to reach out to me if you have any questions about web development, software engineering, or if you'd like to connect and collaborate on projects!
+
+### 🧩Technologies I Work With
+
+- **Programming Languages**: Java, PHP, Lua, TypeScript, JavaScript
+- **Frameworks & Libraries**: React, Node.js, Bootstrap, jQuery, Laravel
+- **Tools & Platforms**: Android Studio, Git, VS Code, MySQL, Firebase, MariaDB
+
+### 📩Connect with Me
+- **Email**: [tharinda.codingsl@gmail.com](tharinda.codingsl@gmail.com)
+- **LinkedIn**:[Tharinda Dilhan](https://www.linkedin.com/in/tharinda-dilhan-48826824b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 <!--## 🌐 Socials:
 <p align="center">
