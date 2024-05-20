@@ -34,7 +34,7 @@ As a student, I'm constantly learning and exploring new technologies to stay upd
 
 - **Programming Languages**: Java, PHP, Lua, TypeScript, JavaScript
 - **Frameworks & Libraries**: React, Node.js, Bootstrap, jQuery, Laravel
-- **Tools & Platforms**: Android Studio, Git, VS Code, MySQL, Firebase, MariaDB
+- **Tools & Platforms**: Android Studio, Git, VS Code, MySQL, Firebase, MariaDB, InteliJ
 
 ### 📩Connect with Me
 - **Email**: [tharinda.codingsl@gmail.com](tharinda.codingsl@gmail.com)
