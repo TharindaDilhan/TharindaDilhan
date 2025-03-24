@@ -38,7 +38,7 @@ As a student, I'm constantly learning and exploring new technologies to stay upd
 
 ### 📩Connect with Me
 - **Email**: [tharinda.codingsl@gmail.com](tharinda.codingsl@gmail.com)
-- **LinkedIn**:[Tharinda Dilhan](https://www.linkedin.com/in/tharinda-dilhan-48826824b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **LinkedIn**:[Tharinda Dilhan](https://www.linkedin.com/in/tharindadilhan/)
 
 <!--## 🌐 Socials:
 <p align="center">
