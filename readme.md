@@ -40,6 +40,8 @@ As a student, I'm constantly learning and exploring new technologies to stay upd
 - **Email**: [tharinda.codingsl@gmail.com](tharinda.codingsl@gmail.com)
 - **LinkedIn**:[Tharinda Dilhan](https://www.linkedin.com/in/tharindadilhan/)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O61CEM6B)
+
 <!--## 🌐 Socials:
 <p align="center">
 <a href="https://dev.to/dev.tharinda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.tharinda" height="30" width="40" /></a>
